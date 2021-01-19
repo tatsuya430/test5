@@ -1,0 +1,107 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Sacramento';
+  background-color:  #1a1c20;
+
+
+
+}
+
+h1{
+
+  font-size: 5.625rem;
+  color:#a3d2ca;
+  margin:200px auto 0 auto;
+  font-family: "Sacramento"
+}
+
+
+h2{
+  font-weight: normal;
+  color:#a7c5eb;
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+
+}
+
+h3
+{color:#ded7b1;
+  font-family: 'sans-serif';
+}
+.Top-container {
+
+     position: relative;
+    padding-top: 100px;
+
+}
+
+p
+{
+  font-weight: normal;
+  color:#8bcdcd;
+  font-family: 'Montserrat';
+
+}
+
+
+
+}
+.Bottom-container{
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 200px;
+  bottom: 300px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.pic1{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.pic2{
+  width: 25%;
+
+  float: left;
+  margin-right: 30px;
+}
+
+.pic3{
+   border-radius: 50%;
+
+}
+
+.a{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+
+.contact.html{
+
+  color: #2c87f0;
+}
+a:visited {
+  color: #cd5d7d;
+}
+a:hover, a:active, a:focus {
+  color:#e9c496;
+}
